@@ -41,3 +41,8 @@ https://github.com/rmuilwijk/MauticFBAdsLeadAdsBundle
 Enables integration with Facebook Ads Custom Audiences Syncing your Mautic segments.
 
 https://github.com/rmuilwijk/MauticFBAdsCustomAudiencesBundle
+
+
+#### Discussion on Mautic community 
+If you have any plugins that shoul bo on that list write here 
+https://www.mautic.org/community/index.php/8304-top-mautic-plugins-updated-list 

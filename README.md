@@ -10,12 +10,6 @@ Mautic WordPress Plugin inserts Mautic tracking image and forms to the WP websit
 
 https://wordpress.org/plugins/wp-mautic/
 
-##### Gravity Forms
-
-Build your own custom forms with the incredibly powerful Gravity Forms and send form submission data to Mautic.
-
-https://gravityplus.pro/gravity-forms-mautic/
-
 ##### Ninja Forms
 
 A Wordpress plugin and Ninja Forms add-on which allows you to save form data to Mautic.
